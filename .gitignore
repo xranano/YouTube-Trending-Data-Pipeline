@@ -1,0 +1,10 @@
+.venv/
+
+*.env
+DB/.env
+
+data/*.csv
+
+# Ignore system files
+__pycache__/
+.DS_Store
