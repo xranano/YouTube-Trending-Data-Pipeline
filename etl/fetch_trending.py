@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 
-API_KEY = 'AIzaSyB4IC8f3JtvzBFeRtOeW9qSne2M-Xnd9-w';
+API_KEY = 'YOUR API KEYS';
 BASE_URL = 'https://www.googleapis.com/youtube/v3/videos'
 
 def fetch_trending(country):
